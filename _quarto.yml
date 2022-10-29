@@ -1,0 +1,46 @@
+project:
+  type: book
+
+book:
+  title: "My Quarto Book"
+  author: "Bert Gollnick"
+  date: "24/10/2022"
+  github-card: true
+  chapters:
+    - index.qmd
+    - setup.qmd
+    - python_r.qmd
+    - references.qmd
+  code_fold: true
+  code-tools: 
+    source: true
+    toggle: false
+    caption: none
+
+
+  reader-mode: true
+
+  page-footer:
+    left: |
+      written by Bert Gollnick
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  cover-image: cover.png
+  site-url: https://r4ds.hadley.nz/ 
+  repo-url: https://github.com/DataScienceHamburg/QuartoBookSample
+
+bibliography: references.bib
+
+format:
+  html:
+    code-link: true
+    code-line-numbers: true
+    embed-resources: true
+    theme: 
+      light: flatly
+      dark: darkly
+  pdf:
+    documentclass: scrreprt
+
+
+

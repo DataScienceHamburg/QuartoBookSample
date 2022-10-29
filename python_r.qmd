@@ -1,0 +1,30 @@
+# Python vs. R
+
+::: {.panel-tabset}
+
+## Python
+
+This is sample Python code directly evaluated by Quarto.
+
+```{python}
+#| code-fold: true
+# python code
+a = 1 
+a
+```
+
+
+## R
+
+And here is the corresponding R code.
+
+```{r}
+#| code-fold: true
+# R code
+my_var <- 2
+my_var
+```
+
+
+:::
+

@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Quarto Book",
+    "section": "",
+    "text": "This is a sample Quarto book.\nTo learn more about Quarto books visit Quarto website."
+  },
+  {
+    "objectID": "setup.html",
+    "href": "setup.html",
+    "title": "1  Setup",
+    "section": "",
+    "text": "If you want to get a good introduction into it, read my first article of the series (Gollnick (2022)).\n\n\n\n\nGollnick, Bert. 2022. “Create Interactive Reports with Python.” https://towardsdev.com/create-interactive-reports-with-quarto-d8175538a57d."
+  },
+  {
+    "objectID": "python_r.html",
+    "href": "python_r.html",
+    "title": "2  Python vs. R",
+    "section": "",
+    "text": "PythonR\n\n\nThis is sample Python code directly evaluated by Quarto.\n\n\nCode\n# python code\na = 1 \na\n\n\n1\n\n\n\n\nAnd here is the corresponding R code.\n\n\nCode\n# R code\nmy_var <- 2\nmy_var\n\n\n[1] 2"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "quarto install tool tinytex\nAfterwards you need to restart your system.\n\n\nGollnick, Bert. 2022. “Create Interactive Reports with\nPython.” https://towardsdev.com/create-interactive-reports-with-quarto-d8175538a57d."
+  }
+]

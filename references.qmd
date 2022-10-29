@@ -1,0 +1,12 @@
+# References {.unnumbered}
+
+To see the references correctly you need to run
+
+```
+quarto install tool tinytex
+```
+
+Afterwards you need to restart your system.
+
+::: {#refs}
+:::

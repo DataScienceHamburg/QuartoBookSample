@@ -1,0 +1,5 @@
+# Setup
+
+Quarto is a new package for technical publishing.
+
+If you want to get a good introduction into it, read my first article of the series (@gollnick2022).
