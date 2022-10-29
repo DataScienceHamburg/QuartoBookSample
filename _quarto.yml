@@ -13,7 +13,7 @@ book:
     - references.qmd
   code_fold: true
   code-tools: 
-    source: true
+    source: repo
     toggle: false
     caption: none
 
@@ -26,7 +26,7 @@ book:
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
   cover-image: cover.png
-  site-url: https://r4ds.hadley.nz/ 
+  site-url: https://datasciencehamburg.github.io/QuartoBookSample/
   repo-url: https://github.com/DataScienceHamburg/QuartoBookSample
 
 bibliography: references.bib
